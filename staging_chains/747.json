@@ -1,0 +1,11 @@
+{
+    "chainId": "747",
+    "rpcs": [
+      "https://mainnet.evm.nodes.onflow.org/"
+    ],
+    "name": "Flow EVM Mainnet",
+    "symbol": "FLOW",
+    "mainnet": true,
+    "address": "EVM",
+    "explorer": "https://evm.flowscan.io/"
+}
