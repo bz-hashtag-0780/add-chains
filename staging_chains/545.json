@@ -1,0 +1,11 @@
+{
+    "chainId": "545",
+    "rpcs": [
+      "https://testnet.evm.nodes.onflow.org/"
+    ],
+    "name": "Flow EVM Testnet",
+    "symbol": "FLOW",
+    "mainnet": false,
+    "address": "EVM",
+    "explorer": "https://evm-testnet.flowscan.io/"
+}
